@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    color: aliceblue;
+}
+body{
+    background-color: darkred;
+}
+.paragraph{
+    color: white;
+    text-align: center;
+}
+a.link{
+    
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-color: red;
+}
+a.link:hover{
+    
+    color: rgb(235, 0, 0);
+    font-size: 30px;
+    background-color: whitesmoke;
+}
+.helo{
+    
+    clear: both;
+}
